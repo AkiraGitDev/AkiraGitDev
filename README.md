@@ -76,10 +76,6 @@ Fora do código você me encontra assistindo animes, mestrando mesas de RPG ou e
   <img height="165" src="https://streak-stats.demolab.com?user=AkiraGitDev&hide_border=true&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkiraGitDev&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
-</p>
-
 ---
 
 ## 🗣️ Idiomas
