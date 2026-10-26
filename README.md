@@ -47,6 +47,7 @@ Fora do código você me encontra assistindo animes, mestrando mesas de RPG ou e
 
 | Projeto | Descrição | Stack |
 |---|---|---|
+| [**5sinergias-scan**](https://github.com/AkiraGitDev/5sinergias-scan) | MVP do Hackathon Equatorial 2026 (Desafio 10): scan 5S com IA para auditorias de qualidade. | Next.js · React 19 · TypeScript · Tailwind |
 | [**akaito**](https://github.com/AkiraGitDev/akaito) | App pessoal para casais: memórias, check-in diário com streak, lugares, countdowns e push notifications. | RN · Expo · Supabase · TanStack Query |
 | [**codelead-test**](https://github.com/AkiraGitDev/codelead-test) | Desafio técnico CodeLeap: CRUD mobile completo com animações. | RN · Expo · TypeScript |
 | [**furia-chat-bot-2.0**](https://github.com/AkiraGitDev/furia-chat-bot-2.0) | App para fãs da FURIA Esports com assistente IA e acompanhamento de partidas. | RN · Expo · OpenAI |
